@@ -1,0 +1,15 @@
+# macOS system file
+.DS_Store
+
+# Node.js modules (if you use npm later)
+node_modules/
+
+# Environment variables (if you use APIs)
+.env
+
+# Build folders (if you use tools like Webpack, Vite, or create-react-app)
+dist/
+build/
+
+# VS Code settings (optional)
+.vscode/
