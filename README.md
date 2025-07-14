@@ -8,7 +8,7 @@ This project was created to practice layout structuring, CSS styling, and respon
 - HTML5  
 - CSS3  
 - Git & GitHub
-- 
+  
 ## ✨ Features
 
 - YouTube-like homepage layout
